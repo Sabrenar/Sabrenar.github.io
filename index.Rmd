@@ -1,9 +1,13 @@
 ---
+layout: default
 title: "Sabrena Rutledge's CV Website"
-author: "Sabrena Rutledge"
-date: "2023-03-21"
-output:html_document:
-    theme: vapor
+
+navbar:
+  title: "title1"
+  
+output:prettydoc::html_pretty:
+    theme: cayman
+    highlight: github
     
 ---
 
@@ -11,4 +15,9 @@ output:html_document:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Hello, Website!
+Hello!
+</br>
+This is a website detailing my CV
+
+
+

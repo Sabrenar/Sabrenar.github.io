@@ -1,9 +1,8 @@
 ---
-title: "About"
-author: "Sabrena"
-date: "2023-03-21"
-output:html_document:
-    theme: vapor
+title: "Education"
+output:prettydoc::html_pretty:
+    theme: cayman
+    highlight: github
     
 ---
 
@@ -11,7 +10,10 @@ output:html_document:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-More about this website
 
-
+2015-2019  </t> University of Georgia </t>  BS in Genetics 
+</br>
+2015-2019 </t> University of Georgia </t> BS in Mathematics
+</br>
+2021-Expected 2015 </t> Iowa State University </t> PhD in Bioinformatics & Computational Biology
 
