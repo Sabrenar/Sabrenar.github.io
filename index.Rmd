@@ -15,9 +15,22 @@ output:prettydoc::html_pretty:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Hello!
+
+
 </br>
-This is a website detailing my CV
+</br>
+<table border="0.5">
+  <tr>
+    <td><b stryle="font-size:30px"> </b></td>
+    <td> </td>
+    <td><b stryle="font-size:30px"> &emsp; Hello!</b></td>
+  </tr>
+  <tr>
+    <td><img src="./images/Rutledge.jpeg" width="250" style="display: block; margin: auto;" /></td>
+    <td> </td>
+    <td> &emsp; Welcome to my CV website. I'm currently a second year Bioinformatics & Computational Biology PhD student at &emsp; &emsp; Iowa State University. My field of research includes scRNAseq data analysis and tool development. </td>
+  </tr>
+</table>
 
 
 
